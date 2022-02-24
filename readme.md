@@ -1,4 +1,4 @@
-## El Gamel Encryption Algorithm
+## El Gamal Encryption Algorithm
 
 ### _Python 3.9_
 
